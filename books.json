@@ -1,0 +1,22 @@
+[
+    {"title": "To Kill a Mockingbird", "author": "Harper Lee", "publication_year": "1960"},
+    {"title": "1984", "author": "George Orwell", "publication_year": "1949"},
+    {"title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "publication_year": "1925"},
+    {"title": "Pride and Prejudice", "author": "Jane Austen", "publication_year": "1813"},
+    {"title": "The Catcher in the Rye", "author": "J.D. Salinger", "publication_year": "1951"},
+    {"title": "To the Lighthouse", "author": "Virginia Woolf", "publication_year": "1927"},
+    {"title": "Brave New World", "author": "Aldous Huxley", "publication_year": "1932"},
+    {"title": "Moby-Dick", "author": "Herman Melville", "publication_year": "1851"},
+    {"title": "The Hobbit", "author": "J.R.R. Tolkien", "publication_year": "1937"},
+    {"title": "Frankenstein", "author": "Mary Shelley", "publication_year": "1818"},
+    {"title": "Crime and Punishment", "author": "Fyodor Dostoevsky", "publication_year": "1866"},
+    {"title": "The Picture of Dorian Gray", "author": "Oscar Wilde", "publication_year": "1890"},
+    {"title": "One Hundred Years of Solitude", "author": "Gabriel Garcia Marquez", "publication_year": "1967"},
+    {"title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "publication_year": "1954"},
+    {"title": "Jane Eyre", "author": "Charlotte Bronte", "publication_year": "1847"},
+    {"title": "War and Peace", "author": "Leo Tolstoy", "publication_year": "1869"},
+    {"title": "The Grapes of Wrath", "author": "John Steinbeck", "publication_year": "1939"},
+    {"title": "The Odyssey", "author": "Homer", "publication_year": "8th century BC"},
+    {"title": "The Road", "author": "Cormac McCarthy", "publication_year": "2006"},
+    {"title": "Beloved", "author": "Toni Morrison", "publication_year": "1987"}
+]
