@@ -1,0 +1,22 @@
+ [
+    {"name": "Alice", "age": 25, "score": 85},
+    {"name": "Bob", "age": 30, "score": 90},
+    {"name": "Charlie", "age": 28, "score": 78},
+    {"name": "David", "age": 22, "score": 95},
+    {"name": "Emily", "age": 27, "score": 80},
+    {"name": "Frank", "age": 35, "score": 88},
+    {"name": "Grace", "age": 29, "score": 92},
+    {"name": "Hannah", "age": 26, "score": 87},
+    {"name": "Ian", "age": 24, "score": 83},
+    {"name": "Jasmine", "age": 31, "score": 89},
+    {"name": "Kevin", "age": 33, "score": 75},
+    {"name": "Linda", "age": 32, "score": 91},
+    {"name": "Michael", "age": 23, "score": 82},
+    {"name": "Nancy", "age": 28, "score": 86},
+    {"name": "Olivia", "age": 29, "score": 94},
+    {"name": "Peter", "age": 27, "score": 79},
+    {"name": "Quinn", "age": 26, "score": 84},
+    {"name": "Rachel", "age": 34, "score": 93},
+    {"name": "Steven", "age": 30, "score": 77},
+    {"name": "Tina", "age": 25, "score": 81}
+]
